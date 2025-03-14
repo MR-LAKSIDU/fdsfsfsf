@@ -1,3 +1,7 @@
 {
-"DETA":"https://mr-manul-ofc-apis.vercel.app"
+"DETA":"https://mr-manul-ofc-apis.vercel.app",
+"PAKAYA":"https://dark-shan-yt.koyeb.app/ai/gemini?q=${q}",
+"HELLO":"https://api.github.com/users/${username}",
+"HUTHTHO":"https://dizer-adaderana-news-api.vercel.app/news",
+"LAKSIDU":"https://pikabotzapi.vercel.app/random/randomwall/?apikey=anya-md&query="
 }
